@@ -1,0 +1,42 @@
+body {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  font-size: smaller;
+}
+#email {
+ border-radius: 5px;
+  padding: 0.4rem;
+  width: 400px;
+  margin-top: 6px;
+  border-style: groove;
+  height: 10px;
+}
+
+#messageemail {
+  margin-top: 10px;
+  border-radius: 5%;
+}
+#pwd {
+ border-radius: 5px;
+  padding: 0.4rem;
+  width: 400px;
+  margin-top: 6px;
+  border-style: groove;
+  height: 10px;
+}
+
+#messagepassword {
+  margin-top: 10px;
+}
+
+#message{
+ margin-top: 1rem;
+}
+
+#btn {
+ background-color: white;
+ border-radius: 5px;
+  width: 128px;
+  height: 27px;
+  margin-top: 10px;
+}
